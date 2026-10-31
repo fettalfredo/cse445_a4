@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="https://fettalfredo.github.io/NationalParks.xsd">
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+		<Phone>928-638-7496</Phone>
+		<Phone>888-297-2757</Phone>
+		<Phone>866-499-2574</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Chiricahua</Name>
+		<Phone>520-824-3560</Phone>
+		<Address NearestAirport="Tucson">
+			<Number>12856</Number>
+			<Street>E Rhyolite Creek Rd</Street>
+			<City>Willcox</City>
+			<State>AZ</State>
+			<Zip>85643</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.7">
+		<Name>Saguaro</Name>
+		<Phone>520-733-5153</Phone>
+		<Phone>520-733-5158</Phone>
+		<Phone>520-733-5100</Phone>
+		<Address NearestAirport="Tucson">
+			<Number>3693</Number>
+			<Street>S Old Spanish Trail</Street>
+			<City>Tucson</City>
+			<State>AZ</State>
+			<Zip>85730</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Petrified Forest</Name>
+		<Phone>928-524-6228</Phone>
+		<Address NearestAirport="Flagstaff">
+			<Number>1</Number>
+			<Street>Park Road</Street>
+			<City>Petrified Forest</City>
+			<State>AZ</State>
+			<Zip>86028</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Great Basin</Name>
+		<Phone>775-234-7331</Phone>
+		<Address NearestAirport="Cedar City">
+			<Number>100</Number>
+			<Street>Great Basin National Park</Street>
+			<City>Baker</City>
+			<State>NV</State>
+			<Zip>89311</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.6">
+		<Name>Congaree</Name>
+		<Phone>803-776-4396</Phone>
+		<Address NearestAirport="Columbia">
+			<Number>100</Number>
+			<Street>National Park Road</Street>
+			<City>Hopkins</City>
+			<State>SC</State>
+			<Zip>29061</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Black Canyon of the Gunnison</Name>
+		<Phone>970-641-2337</Phone>
+		<Address NearestAirport="Montrose">
+			<Number>102</Number>
+			<Street>Elk Creek</Street>
+			<City>Gunnison</City>
+			<State>CO</State>
+			<Zip>81230</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Lassen Volcanic</Name>
+		<Phone>530-595-6100</Phone>
+		<Address NearestAirport="Redding">
+			<Number>38050</Number>
+			<Street>Highway 36 East</Street>
+			<City>Mineral</City>
+			<State>CA</State>
+			<Zip>96063</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Guadalupe Mountains</Name>
+		<Phone>915-828-3251</Phone>
+		<Address NearestAirport="El Paso">
+			<Number>400</Number>
+			<Street>Pine Canyon Drive</Street>
+			<City>Salt Flat</City>
+			<State>TX</State>
+			<Zip>79847</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.7">
+		<Name>Wind Cave</Name>
+		<Phone>605-745-4600</Phone>
+		<Address NearestAirport="Rapid City">
+			<Number>26611</Number>
+			<Street>US Highway 385</Street>
+			<City>Hot Springs</City>
+			<State>SD</State>
+			<Zip>57747</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Zion</Name>
+		<Phone>435-772-3256</Phone>
+		<Address NearestAirport="St. George">
+			<Number>1</Number>
+			<Street>Zion Park Blvd</Street>
+			<City>Springdale</City>
+			<State>UT</State>
+			<Zip>84767</Zip>
+		</Address>
+	</NationalPark>
+</NationalParks>
